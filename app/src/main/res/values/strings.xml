@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaPlayerAndThreads</string>
+    <string name="btnRunnable">Hilo Runnable</string>
+    <string name="btnTHread">HIlo Thread</string>
+</resources>
